@@ -61,8 +61,24 @@
       "PackagePath": "staticwebassets/assets/miegomak.webp"
     },
     {
+      "Id": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/p.png",
+      "PackagePath": "staticwebassets/assets/p.png"
+    },
+    {
+      "Id": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/p.webp",
+      "PackagePath": "staticwebassets/assets/p.webp"
+    },
+    {
       "Id": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/play.png",
       "PackagePath": "staticwebassets/assets/play.png"
+    },
+    {
+      "Id": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/pp.webp",
+      "PackagePath": "staticwebassets/assets/pp.webp"
+    },
+    {
+      "Id": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/profile.png",
+      "PackagePath": "staticwebassets/assets/profile.png"
     },
     {
       "Id": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/tangkahan.jpg",
