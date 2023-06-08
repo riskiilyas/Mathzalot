@@ -1,34 +1,76 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "MySqlConnector/2.2.6": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/MySqlConnector.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MySqlConnector.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MySqlConnector/2.2.6": {
+      "sha512": "oYHl9TNhJXBEqfuiaEsOdBPkdULOcCCbqZJzYhy0rtREnMVoluG73GM8+gwBCMb1vbjv9K1ehQnhe0cxdxfOCA==",
+      "type": "package",
+      "path": "mysqlconnector/2.2.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net461/MySqlConnector.dll",
+        "lib/net461/MySqlConnector.xml",
+        "lib/net471/MySqlConnector.dll",
+        "lib/net471/MySqlConnector.xml",
+        "lib/net6.0/MySqlConnector.dll",
+        "lib/net6.0/MySqlConnector.xml",
+        "lib/net7.0/MySqlConnector.dll",
+        "lib/net7.0/MySqlConnector.xml",
+        "lib/netcoreapp3.1/MySqlConnector.dll",
+        "lib/netcoreapp3.1/MySqlConnector.xml",
+        "lib/netstandard2.0/MySqlConnector.dll",
+        "lib/netstandard2.0/MySqlConnector.xml",
+        "lib/netstandard2.1/MySqlConnector.dll",
+        "lib/netstandard2.1/MySqlConnector.xml",
+        "logo.png",
+        "mysqlconnector.2.2.6.nupkg.sha512",
+        "mysqlconnector.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "MySqlConnector >= 2.2.6"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "/home/riskiilyas/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Mathzalot\\Mathzalot\\Mathzalot.csproj",
+      "projectUniqueName": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/Mathzalot.csproj",
       "projectName": "Mathzalot",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\Mathzalot\\Mathzalot\\Mathzalot.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\Mathzalot\\Mathzalot\\obj\\",
+      "projectPath": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/Mathzalot.csproj",
+      "packagesPath": "/home/riskiilyas/.nuget/packages/",
+      "outputPath": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/riskiilyas/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "/home/riskiilyas/.dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -46,6 +88,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "MySqlConnector": {
+            "target": "Package",
+            "version": "[2.2.6, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -65,7 +113,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/riskiilyas/.dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }

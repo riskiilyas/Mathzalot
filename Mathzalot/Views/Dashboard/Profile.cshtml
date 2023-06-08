@@ -1,0 +1,75 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riski Ilyas</title>
+    <link rel="icon" type="image/x-icon" href="~/assets/Kee%20Coding%20Logo.png">
+    <link rel="stylesheet" href="~/css/index.css" asp-append-version="true" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body class="main-content">
+<header class="container header active" id="home" >
+    <div class="header-content">
+        <div class="left-header">
+            <div class="h-shape"></div>
+            <div class="image">
+                <img src="~/assets/p.webp" alt="">
+            </div>
+        </div>
+        <div class="right-header">
+            <h1 class="name">
+                Riskii123
+            </h1>
+              <h3>
+                riskiilyas03@gmail.com
+            </h3>
+            <h3>
+                10523 Pts
+            </h3>
+        </div>
+    </div>
+</header>
+
+<div class="controls">
+    <div class="controldiv">
+        <div class="control" data-id="Index">
+            <i class="fas fa-home"></i>
+        </div>
+        <p>Home</p>
+        <br>
+    </div>
+    <div class="controldiv">
+        <div class="control" data-id="Leaderboard">
+            <i class="fas fa-chart-bar"></i>
+        </div>
+        <p>Leaderboard</p>
+        <br>
+    </div>
+    <div class="controldiv">
+        <div class="control active-btn" data-id="Profile">
+            <i class="fas fa-user"></i>
+        </div>
+        <p>User</p>
+    </div>
+    <div class="controldiv">
+        <div class="control" data-id="/">
+            <i class="fas fa-angle-left"></i>
+        </div>
+        <p>Log Out</p>
+    </div>
+
+</div>
+<script>
+    (function () {
+        [...document.querySelectorAll(".control")].forEach(button => {
+            button.addEventListener("click", function() {
+                if (button.dataset.id !== 'Profile')
+                    window.location.href = button.dataset.id;
+            })
+        });
+    })();
+</script>
+</body>

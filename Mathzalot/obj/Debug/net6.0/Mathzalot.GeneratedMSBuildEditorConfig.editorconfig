@@ -9,37 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mathzalot
 build_property.RootNamespace = Mathzalot
-build_property.ProjectDir = C:\Users\ASUS\source\repos\Mathzalot\Mathzalot\
+build_property.ProjectDir = /home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ASUS\source\repos\Mathzalot\Mathzalot
+build_property.MSBuildProjectDirectory = /home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ASUS/source/repos/Mathzalot/Mathzalot/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/Views/Dashboard/Leaderboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGFzaGJvYXJkL0xlYWRlcmJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/source/repos/Mathzalot/Mathzalot/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/Views/Dashboard/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGFzaGJvYXJkL1Byb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/source/repos/Mathzalot/Mathzalot/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/source/repos/Mathzalot/Mathzalot/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/source/repos/Mathzalot/Mathzalot/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/source/repos/Mathzalot/Mathzalot/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/source/repos/Mathzalot/Mathzalot/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-ycntm6esht
+[/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-8t31ln8elj
+
+[/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-yetpexqh8k
+
+[/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9juaotjqrf

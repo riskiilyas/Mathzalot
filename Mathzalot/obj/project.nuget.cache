@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "r22u47OXl+LwkxHQhsW+dpp+A7rF4GQ3nHt8oERN6etd/xLrQVf8CNuTXkDyJwRUdZv3g6HChKlI22CBOcL9TQ==",
+  "dgSpecHash": "SsKQEu1eD8jx1R2wsoWy0hURPPRWtQJfB8g2t8tcrGMHng0ULLsG5xV3hDdRmdC6NwUgueyebf3wPusnh2QIXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Mathzalot\\Mathzalot\\Mathzalot.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/Mathzalot.csproj",
+  "expectedPackageFiles": [
+    "/home/riskiilyas/.nuget/packages/mysqlconnector/2.2.6/mysqlconnector.2.2.6.nupkg.sha512"
+  ],
   "logs": []
 }
