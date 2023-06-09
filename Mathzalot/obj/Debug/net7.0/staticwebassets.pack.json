@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/obj/Debug/net7.0/scopedcss/projectbundle/Mathzalot.bundle.scp.css",
+      "PackagePath": "staticwebassets/Mathzalot.bundle.scp.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/Kee Coding Logo.png",
+      "PackagePath": "staticwebassets/assets/Kee Coding Logo.png"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/anyangpakis.webp",
+      "PackagePath": "staticwebassets/assets/anyangpakis.webp"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/arsik.webp",
+      "PackagePath": "staticwebassets/assets/arsik.webp"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/bgg.jpg",
+      "PackagePath": "staticwebassets/assets/bgg.jpg"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/bgweb.jpg",
+      "PackagePath": "staticwebassets/assets/bgweb.jpg"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/bikaambon.webp",
+      "PackagePath": "staticwebassets/assets/bikaambon.webp"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/danautoba.jpg",
+      "PackagePath": "staticwebassets/assets/danautoba.jpg"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/karimedan.webp",
+      "PackagePath": "staticwebassets/assets/karimedan.webp"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/lemang.webp",
+      "PackagePath": "staticwebassets/assets/lemang.webp"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/maimun.jpg",
+      "PackagePath": "staticwebassets/assets/maimun.jpg"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/math.png",
+      "PackagePath": "staticwebassets/assets/math.png"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/me.jpg",
+      "PackagePath": "staticwebassets/assets/me.jpg"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/medan.webp",
+      "PackagePath": "staticwebassets/assets/medan.webp"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/miegomak.webp",
+      "PackagePath": "staticwebassets/assets/miegomak.webp"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/p.png",
+      "PackagePath": "staticwebassets/assets/p.png"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/p.webp",
+      "PackagePath": "staticwebassets/assets/p.webp"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/play.png",
+      "PackagePath": "staticwebassets/assets/play.png"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/pp.webp",
+      "PackagePath": "staticwebassets/assets/pp.webp"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/profile.png",
+      "PackagePath": "staticwebassets/assets/profile.png"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/tangkahan.jpg",
+      "PackagePath": "staticwebassets/assets/tangkahan.jpg"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/css/index.css",
+      "PackagePath": "staticwebassets/css/index.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/css/login.css",
+      "PackagePath": "staticwebassets/css/login.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Mathzalot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Mathzalot.props",
+      "PackagePath": "build\\Mathzalot.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Mathzalot.props",
+      "PackagePath": "buildMultiTargeting\\Mathzalot.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Mathzalot.props",
+      "PackagePath": "buildTransitive\\Mathzalot.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,15 @@
+.divider[b-yetpexqh8k]:after,
+.divider[b-yetpexqh8k]:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.h-custom[b-yetpexqh8k] {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom[b-yetpexqh8k] {
+height: 100%;
+}
+}

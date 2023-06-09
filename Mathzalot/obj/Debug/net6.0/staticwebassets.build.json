@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mcNBJdGj5hBVtlmasjJqnETkwrLrQztAyjZGhSX19O4=",
+  "Hash": "g2lPyZuWuOrCHtTmMvowTasbtod0PhmSVcRt+y7A2DQ=",
   "Source": "Mathzalot",
   "BasePath": "_content/Mathzalot",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Mathzalot/wwwroot",
       "Source": "Mathzalot",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/obj/Debug/net6.0/scopedcss/bundle/Mathzalot.styles.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/obj/Debug/net6.0/scopedcss/bundle/Mathzalot.styles.css",
       "SourceId": "Mathzalot",
       "SourceType": "Computed",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/obj/Debug/net6.0/scopedcss/bundle/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/obj/Debug/net6.0/scopedcss/bundle/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "Mathzalot.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/obj/Debug/net6.0/scopedcss/bundle/Mathzalot.styles.css"
+      "OriginalItemSpec": "/home/recluisen/Github/Mathzalot/Mathzalot/obj/Debug/net6.0/scopedcss/bundle/Mathzalot.styles.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/obj/Debug/net6.0/scopedcss/projectbundle/Mathzalot.bundle.scp.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/obj/Debug/net6.0/scopedcss/projectbundle/Mathzalot.bundle.scp.css",
       "SourceId": "Mathzalot",
       "SourceType": "Computed",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/obj/Debug/net6.0/scopedcss/projectbundle/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "Mathzalot.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/obj/Debug/net6.0/scopedcss/projectbundle/Mathzalot.bundle.scp.css"
+      "OriginalItemSpec": "/home/recluisen/Github/Mathzalot/Mathzalot/obj/Debug/net6.0/scopedcss/projectbundle/Mathzalot.bundle.scp.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/anyangpakis.webp",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/anyangpakis.webp",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/anyangpakis.webp",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/assets/anyangpakis.webp"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/arsik.webp",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/arsik.webp",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/arsik.webp",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/assets/arsik.webp"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/bgg.jpg",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/bgg.jpg",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/bgg.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/assets/bgg.jpg"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/bgweb.jpg",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/bgweb.jpg",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/bgweb.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/assets/bgweb.jpg"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/bikaambon.webp",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/bikaambon.webp",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/bikaambon.webp",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/assets/bikaambon.webp"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/danautoba.jpg",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/danautoba.jpg",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/danautoba.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/assets/danautoba.jpg"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/karimedan.webp",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/karimedan.webp",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/karimedan.webp",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/assets/karimedan.webp"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/Kee Coding Logo.png",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/Kee Coding Logo.png",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/Kee Coding Logo.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/assets/Kee Coding Logo.png"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/lemang.webp",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/lemang.webp",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/lemang.webp",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/assets/lemang.webp"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/maimun.jpg",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/maimun.jpg",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/maimun.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/assets/maimun.jpg"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/math.png",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/math.png",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/math.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/assets/math.png"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/me.jpg",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/me.jpg",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/me.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/assets/me.jpg"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/medan.webp",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/medan.webp",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/medan.webp",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot/assets/medan.webp"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/miegomak.webp",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/miegomak.webp",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/miegomak.webp",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot/assets/miegomak.webp"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/p.png",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/p.png",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/p.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot/assets/p.png"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/p.webp",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/p.webp",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/p.webp",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot/assets/p.webp"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/play.png",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/play.png",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/play.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/assets/play.png"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/pp.webp",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/pp.webp",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/pp.webp",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot/assets/pp.webp"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/profile.png",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/profile.png",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/profile.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot/assets/profile.png"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/assets/tangkahan.jpg",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/assets/tangkahan.jpg",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "assets/tangkahan.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot/assets/tangkahan.jpg"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/css/index.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/css/index.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "css/index.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot/css/index.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/css/login.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/css/login.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot/css/login.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/css/site.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/css/site.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/favicon.ico",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/favicon.ico",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/js/site.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/js/site.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "Mathzalot",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riskiilyas/Desktop/asp-projects/Mathzalot/Mathzalot/wwwroot/",
+      "ContentRoot": "/home/recluisen/Github/Mathzalot/Mathzalot/wwwroot/",
       "BasePath": "_content/Mathzalot",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
