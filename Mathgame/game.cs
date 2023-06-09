@@ -2,7 +2,7 @@ using System;
 using System.Random;
 using System.Collections.Generic;
 
-namespace Mathgame.Game
+namespace Mathgame
 {
     public class Game
     {
