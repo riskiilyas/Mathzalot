@@ -47,8 +47,8 @@ namespace Mathsgame.Game
 
         private void QuestionGenerator(int maxValue)
         {
-            int num1 = rng.Next(0,max);
-            int num2 = rng.Next(0, max);
+            int num1 = rng.Next(0,maxValue);
+            int num2 = rng.Next(0, maxValue);
             float answer = float.NaN;
             Operation operation = OperationRandomizer();
 
