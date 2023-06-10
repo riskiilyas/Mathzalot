@@ -1,13 +1,12 @@
 using System;
-using System.Random;
 using System.Collections.Generic;
 
-namespace Mathgame
+namespace Mathzalot.Models
 {
     public class Game
     {
 
-        private enum Operation
+        public enum Operation
         {
             Addition,
             Subtraction,
@@ -31,9 +30,9 @@ namespace Mathgame
             }
         }
 
-        public List<KeyValuePair<(int,Operation,int),float>> getQuestion(uint index)
+        public List<KeyValuePair<(int,Operation,int),float>> getQuestion()
         {
-            return questionsAndAnswers[index];
+            return questionsAndAnswers;
         }
 
         private Operation OperationRandomizer()
@@ -68,12 +67,12 @@ namespace Mathgame
             {
                 while(num2 == 0)
                 {
-                    num2 = rng.Next(0, max);
+                    num2 = rng.Next(0, maxValue);
                 }
                 answer = num1/(float)num2;
             }
 
-            questionsAndAnswers.Add(new KeyValuePair<(int,Operation,int),float>(num1,operation,num2),answer);
+            questionsAndAnswers.Add(new KeyValuePair<(int,Operation,int),float>((num1,operation,num2),answer));
         }
     }
 }
