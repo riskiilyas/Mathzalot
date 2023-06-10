@@ -13,39 +13,48 @@ namespace Mathzalot.Controllers
             _logger = logger;
         }
 
-        public IActionResult No1()
+        public IActionResult Index()
         {
-            Game game = new Game(5);
+            Game game = new Game(1);
             List<KeyValuePair<(int,Game.Operation,int), float>> questions = game.getQuestion();
 
-            int num1 = questions[1].Key.Item1;
-            Game.Operation operation = questions[1].Key.Item2;
-            int num2 = questions[1].Key.Item3;
+            int num1 = questions[0].Key.Item1;
+            Game.Operation operation = questions[0].Key.Item2;
+            int num2 = questions[0].Key.Item3;
             char opChar = compareOperationSymbol(operation);
+            float answer = questions[0].Value;
 
-            ViewBag.Question = num1.ToString() + " " + opChar + " " + num2.ToString();
-            ViewBag.Answer = questions[1].Value;
-            return View();
+            QuestionViewModel viewModel = new QuestionViewModel
+            {
+                Question = num1.ToString() + " " + opChar + " " + num2.ToString(),
+                Answers = makeRandomAnswers(answer, opChar),
+                Operation = opChar
+            };
+            return View(viewModel);
         }
 
-        public IActionResult No2()
-        {
-            return View();
-        }
+        private KeyValuePair<float,bool>[] makeRandomAnswers(float correct, char opChar) {
+            KeyValuePair<float,bool>[] answers = new KeyValuePair<float,bool>[4];
+            Random rng = new Random((int)DateTime.Now.Ticks);
+            answers[0] = new KeyValuePair<float,bool>(correct,true);
 
-        public IActionResult No3()
-        {
-            return View();
-        }
+            for(var i = 1; i < 4; i++)
+            {
+                int wrong = rng.Next(-30,30);
+                while(wrong == 0)
+                {
+                    wrong = rng.Next(-30,30);
+                }
+                float twoDec = 0;
+                if(opChar == '/')
+                    twoDec = rng.Next(-1, 1);
 
-        public IActionResult No4()
-        {
-            return View();
-        }
+                answers[i] = new KeyValuePair<float,bool>(correct + wrong + twoDec,false);
+            }
 
-        public IActionResult No5()
-        {
-            return View();
+            answers = answers.OrderBy(x => rng.Next()).ToArray();
+
+            return answers;
         }
 
         private char compareOperationSymbol(Game.Operation operation)
@@ -60,6 +69,23 @@ namespace Mathzalot.Controllers
                 return '?';
             }
             return opChar;
+        }
+
+        [HttpGet]
+        public ActionResult checkAnswer(bool answer)
+        {
+            
+            Console.WriteLine(answer);
+            if(answer == true){
+                //put into database as correct, calculate winnings
+                return RedirectToAction("Index","Question");
+            }
+            else{
+                //save points, return to home
+                return RedirectToAction("Index","Dashboard");
+
+            }
+            
         }
 
 
