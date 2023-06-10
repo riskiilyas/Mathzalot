@@ -13,14 +13,24 @@ namespace Mathzalot.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(string session = "0", int prevScore = 0)
         {
-            string key = GenerateGameSessionKey();
-            HttpContext.Session.SetString("GameSessionKey",key);
-            HttpContext.Session.SetInt32(key, 0);
-
             QuestionViewModel viewModel = makeViewModel();
-            viewModel.score = 0;
+            if(session == "0")
+            {
+                string key = GenerateGameSessionKey();
+                HttpContext.Session.SetString("GameSessionKey",key);
+                HttpContext.Session.SetInt32(key, 0);
+                viewModel.score = 0;
+
+            }
+            else
+            {
+                HttpContext.Session.SetInt32(session, prevScore);
+                viewModel.score = prevScore;
+            }
+            
+
 
             return View(viewModel);
         }
@@ -87,8 +97,9 @@ namespace Mathzalot.Controllers
         {
             if(answer == true){
                 //put into database as correct, calculate winnings
-                int score = 100;
-                return RedirectToAction("Index","Question");
+                string key = HttpContext.Session.GetString("GameSessionKey");
+                int score = (int)(100 + HttpContext.Session.GetInt32(key));
+                return RedirectToAction("Index","Question", new{session = key, prevScore = score});
             }
             else{
                 //save points, return to home
