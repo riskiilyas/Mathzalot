@@ -15,6 +15,17 @@ namespace Mathzalot.Controllers
 
         public IActionResult Index()
         {
+            string key = GenerateGameSessionKey();
+            HttpContext.Session.SetString("GameSessionKey",key);
+            HttpContext.Session.SetInt32(key, 0);
+
+            QuestionViewModel viewModel = makeViewModel();
+            viewModel.score = 0;
+
+            return View(viewModel);
+        }
+
+        private QuestionViewModel makeViewModel(){
             Game game = new Game(1);
             List<KeyValuePair<(int,Game.Operation,int), float>> questions = game.getQuestion();
 
@@ -30,7 +41,7 @@ namespace Mathzalot.Controllers
                 Answers = makeRandomAnswers(answer, opChar),
                 Operation = opChar
             };
-            return View(viewModel);
+            return viewModel;
         }
 
         private KeyValuePair<float,bool>[] makeRandomAnswers(float correct, char opChar) {
@@ -74,10 +85,9 @@ namespace Mathzalot.Controllers
         [HttpGet]
         public ActionResult checkAnswer(bool answer)
         {
-            
-            Console.WriteLine(answer);
             if(answer == true){
                 //put into database as correct, calculate winnings
+                int score = 100;
                 return RedirectToAction("Index","Question");
             }
             else{
@@ -86,6 +96,15 @@ namespace Mathzalot.Controllers
 
             }
             
+        }
+
+        public string GenerateGameSessionKey() {
+            const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+            Random rng = new Random((int)DateTime.Now.Ticks);
+
+            string key = new string(Enumerable.Repeat(chars, 10).Select(s => s[rng.Next(s.Length)]).ToArray());
+            Console.WriteLine(key);
+            return key;
         }
 
 
